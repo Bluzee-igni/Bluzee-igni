@@ -4,19 +4,19 @@
 <h3 align="center">✨ Web Developer | Backend Enthusiast | Future Network System Administrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Let+It+Happen...;Welcome+to+my+GitHub+🌌;Building+Dreamy+Digital+Worlds;Laravel+%7C+DevOps+%7C+Networking" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Let+It+Happen...;Welcome+to+my+GitHub+🌌;Building+Scalable+Web+Apps;Laravel+%7C+DevOps+%7C+Networking" />
 </p>
 
 ---
 
-## 🌈 About Me
+## 🤔 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 * 🎓 Student at **SMK Telkom Sidoarjo**
 * 🌱 Learning **Laravel, Docker, CI/CD, Linux**
-* 💡 Passionate about **Web Development, System Admin, Networking**
-* ⚡ Love building **real-world web apps**
+* 💡 Passionate about **Web Development, System Administration, Networking**
+* ⚡ Love building **real-world web applications**
 * 🎯 Goal: Become a **Network System Administrator**
 * 🎧 Enjoy listening to music while coding
 
@@ -30,20 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌌 CraftConnect
-
-💡 Marketplace platform for handmade products dengan sentuhan modern
-
-✨ Features:
-
-* ❤️ Like system
-* 💬 Comment system
-* 💳 Payment system
-* 🔐 Authentication
-
----
 
 ## 📊 GitHub Stats
 
@@ -78,7 +64,7 @@
 ## 💬 Quote
 
 <p align="center">
-  <i>"Let it happen. 🌌"</i><br>
+  <i>"Let it happen."</i><br>
   <i>— Keep building, keep evolving.</i>
 </p>
 
