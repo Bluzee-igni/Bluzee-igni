@@ -15,7 +15,7 @@
 
 * 🎓 Student at **SMK Telkom Sidoarjo**
 * 🌱 Learning **Laravel, Docker, CI/CD, Linux**
-* 💡 Passionate about **Web Development & Networking**
+* 💡 Passionate about **Web Development, System Administrator, Networking **
 * ⚡ Love building **real-world web apps**
 * 🎯 Goal: Become a **Network System Administrator**
 
@@ -70,14 +70,6 @@
   <a href="mailto:athafakhrirakana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🧩 Fun Zone
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bluzee-igni&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
