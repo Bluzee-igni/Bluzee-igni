@@ -11,7 +11,6 @@
 
 ## 🤔 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 * 🎓 Student at **SMK Telkom Sidoarjo**
 * 🌱 Learning **Laravel, Docker, CI/CD, Linux**
