@@ -1,109 +1,59 @@
-# 🌌 Hi 👋, I'm Atha Fakhri Arkana
+<!-- HEADER -->
 
-```{=html}
+<h1 align="center">🌌 Hi 👋, I'm Atha Fakhri Arkana</h1>
+<h3 align="center">✨ Web Developer | Backend Enthusiast | Future Network System Administrator</h3>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Web+Developer;Backend+Enthusiast;Future+Network+System+Administrator;Always+Learning+Something+New+🚀" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Let+It+Happen...;Welcome+to+my+GitHub+🌌;Building+Scalable+Web+Apps;Laravel+%7C+DevOps+%7C+Networking" />
 </p>
-```
-## 💻 Terminal
 
-``` bash
-atha@github:~$ whoami
-Name        : Atha Fakhri Arkana
-School      : SMK Telkom Sidoarjo
-Role        : Student
-Focus       : Backend • Laravel • Networking
-Learning    : Docker • Linux • CI/CD
-Dream Job   : Network System Administrator
+🤔 About Me
 
-atha@github:~$ ls projects
-📦 CraftConnect
-📦 Smart Study
-📦 Portfolio
+🎓 Student at SMK Telkom Sidoarjo
 
-atha@github:~$ systemctl status motivation
-● ACTIVE (RUNNING)
-```
+🌱 Learning Laravel, Docker, CI/CD, Linux
 
-## 🚀 About Me
+💡 Passionate about Web Development, System Administration, Networking
 
--   🎓 Student at **SMK Telkom Sidoarjo**
--   💻 Passionate about Backend Development
--   🌐 Interested in Networking & Linux
--   🐳 Learning Docker & DevOps
--   🎯 Goal: Become a **Network System Administrator**
+⚡ Love building real-world web applications
 
-## 🛠️ Tech Stack
+🎯 Goal: Become a Network System Administrator
 
-```{=html}
+🎧 Enjoy listening to music while coding
+
+🛠️ Tech Stack
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,mysql,git,github,docker,linux,nginx,figma,vscode" />`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,docker,nginx,linux,figma" />
 </p>
-```
-## 📚 Currently Learning
 
--   Laravel
--   Docker
--   Linux
--   Networking
--   CI/CD
+📊 GitHub Stats
 
-## 💼 Featured Projects
-
-### 🌾 CraftConnect
-
-Marketplace untuk UMKM dan kerajinan lokal.
-
-### 📖 Smart Study
-
-Dashboard pembelajaran dan AI assistant.
-
-### 🌐 Portfolio Website
-
-Website personal untuk menampilkan proyek dan pengalaman.
-
-## 🏆 Achievements
-
--   🥈 Kompetisi IT
--   📜 Pelatihan Cisco & Networking
--   💡 Fullstack & Backend Projects
-
-## 📊 GitHub Stats
-
-> Tambahkan:
->
-> -   GitHub Readme Stats
-> -   Streak Stats
-> -   Activity Graph
-> -   Top Languages
-
-## 🌐 Connect
-
--   📧 athafakhrirakana@gmail.com
-
-## 💬 Favorite Quote
-
-> "Let it happen. Keep building. Keep evolving."
-
-------------------------------------------------------------------------
-
-``` text
-while(alive){
-   Learn();
-   Build();
-   Fail();
-   Improve();
-}
-```
-
-```{=html}
 <p align="center">
-```
-⭐ Thanks for visiting my profile! ⭐
-```{=html}
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bluzee-igni&theme=radical" />
 </p>
-```
+
+🧠 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-ff4b8b?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/Docker-00cfff?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Networking-6effa3?style=for-the-badge&logo=cisco"/>
+</p>
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:athafakhrirakana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+💬 Quote
+
+<p align="center">
+  <i>"Let it happen."</i><br>
+  <i>— Keep building, keep evolving.</i>
+</p>
