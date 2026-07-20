@@ -1,74 +1,72 @@
-<!-- HEADER -->
+<div align="center">
 
-<h1 align="center">🌌 Hi 👋, I'm Atha Fakhri Arkana</h1>
-<h3 align="center">✨ Web Developer | Backend Enthusiast | Future Network System Administrator</h3>
+<!-- Header / Heatmap Section -->
+<h3><code>atha@sija-server ~ $ ./contributions.sh</code></h3>
+<!-- Nanti ganti src ini dengan "./contrib-heatmap.svg" setelah setup GitHub Actions selesai -->
+<img src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="860" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Let+It+Happen...;Welcome+to+my+GitHub+🌌;Building+Scalable+Web+Apps;Laravel+%7C+DevOps+%7C+Networking" />
-</p>
+<br><br>
 
----
+<!-- Whoami / Neofetch Section -->
+<h3><code>atha@sija-server ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top" width="400">
+      <!-- Nanti ganti src ini dengan "./atha-ascii.svg" hasil generate fotomu -->
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF6EC7&vCenter=true&lines=atha@sija-server:~$;Initializing+system...;Welcome+to+my+terminal!;Let+It+Happen..." alt="Terminal Typing" />
+      <br><br>
+      <i>"Let it happen."<br>— Keep building, keep evolving.</i>
+    </td>
+    <td valign="top" width="460">
+      <!-- Ini adalah versi teks Neofetch. Nanti bisa diganti dengan "./info-card.svg" -->
+<pre>
+<span style="color:#FF6EC7"><b>atha</b></span>@<span style="color:#FF6EC7"><b>sija-server</b></span>
+-------------------
+<b>OS</b>: Linux (Debian/Kali/Ubuntu)
+<b>Role</b>: Future Network System Administrator
+<b>Edu</b>: 12th Grade - NSA / SIJA
+<b>Stack</b>: Laravel, Docker, Proxmox
+<b>Focus</b>: Web Dev & Cybersecurity (CTF)
+<b>Projects</b>: Social Media Web App (Payments & Messaging)
+<b>Prep</b>: UKL/UKK Vocational Exams
+</pre>
+    </td>
+  </tr>
+</table>
 
-## 🤔 About Me
+<br><br>
 
-
-* 🎓 Student at **SMK Telkom Sidoarjo**
-* 🌱 Learning **Laravel, Docker, CI/CD, Linux**
-* 💡 Passionate about **Web Development, System Administration, Networking**
-* ⚡ Love building **real-world web applications**
-* 🎯 Goal: Become a **Network System Administrator**
-* 🎧 Enjoy listening to music while coding
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
+<!-- Tech Stack Section -->
+<h3><code>atha@sija-server ~ $ cat /etc/tech_stack.conf</code></h3>
+<p>
   <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,docker,nginx,linux,figma" />
 </p>
 
----
+<br>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bluzee-igni&theme=radical" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-<p align="center">
+<!-- Currently Learning Section -->
+<h3><code>atha@sija-server ~ $ ls -la /currently_learning/</code></h3>
+<p>
   <img src="https://img.shields.io/badge/Laravel-ff4b8b?style=for-the-badge&logo=laravel"/>
   <img src="https://img.shields.io/badge/Docker-00cfff?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux"/>
   <img src="https://img.shields.io/badge/Networking-6effa3?style=for-the-badge&logo=cisco"/>
 </p>
 
----
+<br><br>
 
-## 🌐 Connect With Me
-
-<p align="center">
+<!-- Contact Section -->
+<h3><code>atha@sija-server ~ $ ping -c 4 contact_me</code></h3>
+<p>
   <a href="mailto:athafakhrirakana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<br>
 
-## 💬 Quote
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-<p align="center">
-  <i>"Let it happen."</i><br>
-  <i>— Keep building, keep evolving.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+</div>
