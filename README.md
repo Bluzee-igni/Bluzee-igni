@@ -1,75 +1,109 @@
-<div align="center">
+# 🌌 Hi 👋, I'm Atha Fakhri Arkana
 
-<!-- Uptime & System Status -->
-<h3><code>atha@sija-server:~$ uptime</code></h3>
-<p><i>12:00 up 365 days, 3 users, load average: 0.08, 0.04, Laravel & Docker running ☕🐧</i></p>
-
-<!-- Stats Section -->
-<h3><code>atha@sija-server:~$ ./fetch_stats.sh --gui</code></h3>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluzee-igni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Bluzee-igni&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Web+Developer;Backend+Enthusiast;Future+Network+System+Administrator;Always+Learning+Something+New+🚀" />`{=html}
+```{=html}
 </p>
+```
+## 💻 Terminal
 
-<br><br>
+``` bash
+atha@github:~$ whoami
+Name        : Atha Fakhri Arkana
+School      : SMK Telkom Sidoarjo
+Role        : Student
+Focus       : Backend • Laravel • Networking
+Learning    : Docker • Linux • CI/CD
+Dream Job   : Network System Administrator
 
-<!-- Whoami / Neofetch Section -->
-<h3><code>atha@sija-server:~$ neofetch --ascii_distro debian</code></h3>
-<table>
-  <tr>
-    <td valign="top" width="400">
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00CFFF&vCenter=true&lines=atha@sija-server:~$;Executing+profile.sh...;Welcome+to+my+workspace!;Let+It+Happen..." alt="Terminal Typing" />
-      <br><br>
-    </td>
-    <td valign="top" width="460">
-<pre>
-<span style="color:#00CFFF"><b>atha</b></span>@<span style="color:#FF6EC7"><b>sija-server</b></span>
--------------------
-<b>OS</b>      : Linux (Debian, Kali, Ubuntu) 🐧
-<b>Role</b>    : Future Network System Admin 🌐
-<b>Edu</b>     : 12th Grade SIJA (Prep for Final Boss: UKK / UKL) 🎓
-<b>Stack</b>   : Laravel, Docker, Proxmox 🐳
-<b>Hobbies</b> : Music 🎧, Movies 🍿, & Gaming 🎮
-<b>Project</b> : Social Media App (Payments & Messaging) 💬
-<b>Status</b>  : "Let it happen... but check the logs first." 📜
-</pre>
-    </td>
-  </tr>
-</table>
+atha@github:~$ ls projects
+📦 CraftConnect
+📦 Smart Study
+📦 Portfolio
 
-<br><br>
+atha@github:~$ systemctl status motivation
+● ACTIVE (RUNNING)
+```
 
-<!-- Tech Stack Section -->
-<h3><code>atha@sija-server:~$ cat /etc/tech_stack.conf | grep "favorite"</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,docker,nginx,linux,figma" />
+## 🚀 About Me
+
+-   🎓 Student at **SMK Telkom Sidoarjo**
+-   💻 Passionate about Backend Development
+-   🌐 Interested in Networking & Linux
+-   🐳 Learning Docker & DevOps
+-   🎯 Goal: Become a **Network System Administrator**
+
+## 🛠️ Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,mysql,git,github,docker,linux,nginx,figma,vscode" />`{=html}
+```{=html}
 </p>
+```
+## 📚 Currently Learning
 
-<br>
+-   Laravel
+-   Docker
+-   Linux
+-   Networking
+-   CI/CD
 
-<!-- Currently Learning Section -->
-<h3><code>atha@sija-server:~$ tail -f /var/log/learning.log</code></h3>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-049CE4?style=for-the-badge&logo=cisco&logoColor=white"/>
+## 💼 Featured Projects
+
+### 🌾 CraftConnect
+
+Marketplace untuk UMKM dan kerajinan lokal.
+
+### 📖 Smart Study
+
+Dashboard pembelajaran dan AI assistant.
+
+### 🌐 Portfolio Website
+
+Website personal untuk menampilkan proyek dan pengalaman.
+
+## 🏆 Achievements
+
+-   🥈 Kompetisi IT
+-   📜 Pelatihan Cisco & Networking
+-   💡 Fullstack & Backend Projects
+
+## 📊 GitHub Stats
+
+> Tambahkan:
+>
+> -   GitHub Readme Stats
+> -   Streak Stats
+> -   Activity Graph
+> -   Top Languages
+
+## 🌐 Connect
+
+-   📧 athafakhrirakana@gmail.com
+
+## 💬 Favorite Quote
+
+> "Let it happen. Keep building. Keep evolving."
+
+------------------------------------------------------------------------
+
+``` text
+while(alive){
+   Learn();
+   Build();
+   Fail();
+   Improve();
+}
+```
+
+```{=html}
+<p align="center">
+```
+⭐ Thanks for visiting my profile! ⭐
+```{=html}
 </p>
-
-<br><br>
-
-<!-- Contact Section -->
-<h3><code>atha@sija-server:~$ nc -vz ping.me.now 443</code></h3>
-<p>
-  <a href="mailto:athafakhrirakana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
-
-</div>
+```
