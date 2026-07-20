@@ -4,10 +4,12 @@
 <h3><code>atha@sija-server:~$ sudo systemctl status developer.service</code></h3>
 <p><i>Active: active (running) | Fueled by Laravel, Docker, and broken Linux configurations ☕🐧</i></p>
 
-<!-- Heatmap Section -->
+<!-- Heatmap / Stats Section -->
 <h3><code>atha@sija-server:~$ ./show_git_activity.sh --verbose</code></h3>
-<!-- Nanti ganti src ini dengan "./contrib-heatmap.svg" setelah setup GitHub Actions selesai -->
-<img src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="860" alt="GitHub Stats" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bluzee-igni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 <br><br>
 
