@@ -28,14 +28,14 @@
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,kotlin" />
 </p>
 
-**Sistem Informasi Gempa & Aksi Penyelamatan** — a full-stack earthquake disaster-mitigation platform (backend + mobile), built for a national App Dev competition.
+**Sistem Informasi Gempa & Aksi Penyelamatan**  a full-stack earthquake disaster-mitigation platform (backend + mobile), built for a national App Dev competition.
 
-- 🧠 **RAG-powered AI disaster education** — multilingual embeddings + LLM Q&A for pre-disaster literacy
-- 🗺️ **Geospatial hazard mapping** — PostGIS danger-zone radius calculated from real-time BMKG earthquake data
-- 🚨 **Ring Dispatch & Escalation Engine** — tiered volunteer coordination by proximity & readiness score, with automatic timeout escalation
-- 📴 **Offline-first sync** — idempotent batch sync for volunteers working without connectivity in the field
+- 🧠 **RAG-powered AI disaster education**  multilingual embeddings + LLM Q&A for pre-disaster literacy
+- 🗺️ **Geospatial hazard mapping** PostGIS danger-zone radius calculated from real-time BMKG earthquake data
+- 🚨 **Ring Dispatch & Escalation Engine** tiered volunteer coordination by proximity & readiness score, with automatic timeout escalation
+- 📴 **Offline-first sync** idempotent batch sync for volunteers working without connectivity in the field
 - ✅ **69+ automated tests**, JWT + RBAC auth, fully Dockerized
-- 📱 **Mobile app** (Kotlin + Jetpack Compose) — live hazard map via osmdroid, citizen safety dashboard, disaster literacy catalog
+- 📱 **Mobile app** (Kotlin + Jetpack Compose) live hazard map via osmdroid, citizen safety dashboard, disaster literacy catalog
 
 🔗 [Backend repo](https://github.com/Bluzee-igni/S.I.G.A.P---Backend) · [Mobile repo](https://github.com/Bluzee-igni/S.I.G.A.P-Mobile)
 
