@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,react,mysql,python,git,github,docker,linux,nginx,figma,vscode" />
 </p>
 
-## 🌟 Featured Project — S.I.G.A.P
+## 🌟 Featured Project S.I.G.A.P
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,kotlin" />
 </p>
