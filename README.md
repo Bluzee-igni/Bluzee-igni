@@ -49,13 +49,12 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluzee-igni&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/stats.svg" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Bluzee-igni&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluzee-igni&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/top-langs.svg" />
 </p>
-
 ## Currently Exploring
 <p align="center">
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
