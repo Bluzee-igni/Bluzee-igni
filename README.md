@@ -1,78 +1,94 @@
 <!-- ========================= HEADER ========================= -->
-<h1 align="center">Hi, I'm Atha Fakhri Arkana 👋</h1>
-<h3 align="center">Backend & Web Developer • Aspiring Network Systems Administrator</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Laravel+%E2%80%A2+Docker+%E2%80%A2+Linux;Learning+networks+%26+system+administration;Keep+building.+Keep+learning." />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bluzee-igni&label=Profile%20Views&color=00cfff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Bluzee-igni?style=flat-square&color=00cfff" />
-  <img src="https://img.shields.io/github/stars/Bluzee-igni?affiliations=OWNER&style=flat-square&color=ffd166" />
-</p>
+<div align="center">
+  <h2>Atha Fakhri Arkana</h2>
+  <p><b>Backend Developer &nbsp;•&nbsp; Systems & Network Administration Enthusiast</b></p>
 
-## About Me
-- 🎓 Class XII student at **SMK Telkom Sidoarjo**, majoring in **Sistem Informasi, Jaringan & Aplikasi (SIJA)**
-- 💻 Focused on backend development, networking, and systems administration
-- 🛠️ Currently building with **Laravel, Docker, and Linux**-based infrastructure
-- 🌱 Exploring **CI/CD pipelines** and applied AI/ML for data-driven applications
-- 🎯 Long-term goal: becoming a **Network Systems Administrator**
-- 🎧 Codes better with a playlist running in the background
+  <p>
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Building+reliable+backend+systems+%26+APIs;Laravel+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+Linux;Exploring+CI%2FCD+pipelines+%26+network+infrastructure" alt="Typing SVG" />
+  </p>
 
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,react,mysql,python,git,github,docker,linux,nginx,figma,vscode" />
-</p>
+  <p>
+    <a href="mailto:athafakhrirakana@gmail.com">
+      <img src="https://img.shields.io/badge/Email-athafakhrirakana%40gmail.com-151515?style=flat-square&logo=gmail&logoColor=white&labelColor=21262d" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Bluzee-igni&label=Views&color=151515&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/Bluzee-igni?label=Followers&style=flat-square&color=151515&labelColor=21262d" />
+    <img src="https://img.shields.io/github/stars/Bluzee-igni?affiliations=OWNER&label=Stars&style=flat-square&color=151515&labelColor=21262d" />
+  </p>
+</div>
 
-## 🌟 Featured Project S.I.G.A.P
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,kotlin" />
-</p>
+<br />
 
-**Sistem Informasi Gempa & Aksi Penyelamatan**  a full-stack earthquake disaster-mitigation platform (backend + mobile), built for a national App Dev competition.
+### About
 
-- 🧠 **RAG-powered AI disaster education**  multilingual embeddings + LLM Q&A for pre-disaster literacy
-- 🗺️ **Geospatial hazard mapping** PostGIS danger-zone radius calculated from real-time BMKG earthquake data
-- 🚨 **Ring Dispatch & Escalation Engine** tiered volunteer coordination by proximity & readiness score, with automatic timeout escalation
-- 📴 **Offline-first sync** idempotent batch sync for volunteers working without connectivity in the field
-- ✅ **69+ automated tests**, JWT + RBAC auth, fully Dockerized
-- 📱 **Mobile app** (Kotlin + Jetpack Compose) live hazard map via osmdroid, citizen safety dashboard, disaster literacy catalog
+- Class XII student at **SMK Telkom Sidoarjo** — *Sistem Informasi, Jaringan & Aplikasi (SIJA)*
+- Focused on **backend engineering**, **Linux server administration**, and **network infrastructure**
+- Building containerized applications with **Laravel, Python (FastAPI), and Docker**
+- Currently exploring **CI/CD automation** and applied **AI/ML** integrations
+- Long-term goal: **Network & Systems Administrator**
 
-🔗 [Backend repo](https://github.com/Bluzee-igni/S.I.G.A.P---Backend) · [Mobile repo](https://github.com/Bluzee-igni/S.I.G.A.P-Mobile)
+<br />
 
-## Other Projects
-| Project | My Role | Description |
-|---|---|---|
-| [**KerjaRia**](https://github.com/Bluzee-igni/SEEFEST-KERJARIA) 🏆 | Fullstack Dev (Frontend + Backend) | Web platform connecting SMA/SMK students & graduates with local UMKM through a level-based skill-training system and simple micro-work — helping students build a portfolio and get job-ready. Built with React 19, Vite, Tailwind CSS & Framer Motion for **SEEFEST**, a competition by Telkom University. |
-| [**Asentinel**](https://github.com/PancaSolva/Asentinel) 🚧 | AI Engineer & CI/CD | Built the AI features and Telegram bot integration, and manage the project's CI/CD pipeline. |
+### Tech Stack
 
-*🏆 competition project · 🚧 in progress*
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Languages** | <img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi,js&theme=dark" height="28" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,react,kotlin&theme=dark" height="28" /> |
+| **Database & DevOps** | <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,githubactions&theme=dark" height="28" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="28" /> |
 
-## GitHub Stats
-<p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/stats.svg" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Bluzee-igni&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/top-langs.svg" />
-</p>
-## Currently Exploring
-<p align="center">
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Basics-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br />
+
+### Featured Project — S.I.G.A.P
+
+> **Sistem Informasi Gempa & Aksi Penyelamatan**  
+> Full-stack earthquake disaster-mitigation platform (Backend + Mobile) built for a national App Dev competition.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-151515?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/PostgreSQL_%2B_PostGIS-151515?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Docker-151515?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kotlin_Compose-151515?style=flat-square&logo=kotlin&logoColor=7F52FF" />
 </p>
 
-## Let's Connect
-<p align="center">
-  <a href="mailto:athafakhrirakana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+- **RAG-Powered Disaster Education** — Multilingual embeddings & LLM Q&A for pre-disaster literacy.
+- **Geospatial Hazard Mapping** — Dynamic PostGIS danger-zone radius calculated from real-time BMKG earthquake data.
+- **Ring Dispatch & Escalation Engine** — Tiered volunteer coordination based on proximity & readiness score with automated timeout escalation.
+- **Offline-First Synchronization** — Idempotent batch sync designed for field volunteers operating in zero-connectivity areas.
+- **Production-Grade Architecture** — 69+ automated tests, JWT + RBAC authentication, fully containerized with Docker, paired with a native Kotlin (Jetpack Compose + osmdroid) mobile app.
+
+📦 **Repositories:** [Backend Repository](https://github.com/Bluzee-igni/S.I.G.A.P---Backend) &nbsp;·&nbsp; [Mobile Repository](https://github.com/Bluzee-igni/S.I.G.A.P-Mobile)
+
+<br />
+
+### Other Projects
+
+| Project | Role | Stack & Overview |
+| :--- | :--- | :--- |
+| **[KerjaRia](https://github.com/Bluzee-igni/SEEFEST-KERJARIA)** 🏆 | Full-Stack Developer | Gamified web platform connecting vocational (SMA/SMK) students with local UMKM through level-based skill training and micro-work opportunities. Built with **React 19, Vite, Tailwind CSS, and Framer Motion** for **SEEFEST** (Telkom University). |
+| **[Asentinel](https://github.com/PancaSolva/Asentinel)** 🚧 | AI Engineer & CI/CD | Engineered AI capabilities, Telegram bot integration, and automated **CI/CD deployment pipelines**. |
+
+<sub>🏆 <i>Competition Project</i> &nbsp;·&nbsp; 🚧 <i>In Progress</i></sub>
+
+<br />
+
+### 📊 GitHub Stats
+
+<!-- Layout disusun rapi menyerupai referensi screenshot dengan tema Dark Matte (#151515) -->
+<p align="left">
+  <img height="165" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/stats.svg" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <i>"Let it happen. Keep building, keep learning, keep evolving."</i>
+<p align="left">
+  <img height="165" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/streak.svg" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img height="150" src="https://raw.githubusercontent.com/Bluzee-igni/Bluzee-igni/main/profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
+
+<div align="center">
+  <sub><i>"Let it happen. Keep building, keep learning, keep evolving."</i></sub>
+</div>
