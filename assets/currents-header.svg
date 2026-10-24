@@ -1,53 +1,67 @@
-<svg width="850" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="110" viewBox="0 0 850 110" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#121214" />
-      <stop offset="100%" stop-color="#17171a" />
+      <stop offset="50%" stop-color="#151518" />
+      <stop offset="100%" stop-color="#121214" />
     </linearGradient>
 
-    <!-- Subtle Currents flow curves -->
+    <!-- Subtle Currents streamline gradient -->
     <linearGradient id="flowAccent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#27272a" stop-opacity="0" />
-      <stop offset="25%" stop-color="#3f3f46" stop-opacity="0.4" />
-      <stop offset="45%" stop-color="#7c3aed" stop-opacity="0.7" />
-      <stop offset="65%" stop-color="#c026d3" stop-opacity="0.5" />
-      <stop offset="85%" stop-color="#3f3f46" stop-opacity="0.3" />
+      <stop offset="20%" stop-color="#3f3f46" stop-opacity="0.3" />
+      <stop offset="42%" stop-color="#7c3aed" stop-opacity="0.65" />
+      <stop offset="55%" stop-color="#c026d3" stop-opacity="0.6" />
+      <stop offset="75%" stop-color="#3f3f46" stop-opacity="0.3" />
       <stop offset="100%" stop-color="#27272a" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Chrome metallic sphere gradient -->
-    <radialGradient id="chromeMinimal" cx="35%" cy="30%" r="65%">
+    <linearGradient id="subtleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="5%" stop-color="#27272a" stop-opacity="0" />
+      <stop offset="35%" stop-color="#52525b" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.5" />
+      <stop offset="65%" stop-color="#52525b" stop-opacity="0.4" />
+      <stop offset="95%" stop-color="#27272a" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Chrome metallic sphere gradient (Robert Beatty Currents signature) -->
+    <radialGradient id="chromeSphere" cx="35%" cy="30%" r="65%">
       <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="35%" stop-color="#e4e4e7" />
-      <stop offset="65%" stop-color="#71717a" />
+      <stop offset="30%" stop-color="#e4e4e7" />
+      <stop offset="55%" stop-color="#a1a1aa" />
+      <stop offset="80%" stop-color="#52525b" />
       <stop offset="100%" stop-color="#18181b" />
     </radialGradient>
+
+    <!-- Subtle glow for sphere -->
+    <filter id="subtleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
 
   <!-- Base Card -->
-  <rect width="850" height="150" rx="10" fill="url(#headerBg)" stroke="#27272a" stroke-width="1" />
+  <rect width="850" height="110" rx="8" fill="url(#headerBg)" stroke="#27272a" stroke-width="1" />
 
-  <!-- Currents subtle aerodynamic streamline curves (understated, dark) -->
-  <g opacity="0.6">
-    <path d="M 0 50 Q 180 50, 260 75 T 850 65" stroke="#27272a" stroke-width="1" fill="none" />
-    <path d="M 0 60 Q 180 60, 260 75 T 850 72" stroke="url(#flowAccent)" stroke-width="1.2" fill="none" />
-    <path d="M 0 70 Q 180 70, 260 75 T 850 78" stroke="url(#flowAccent)" stroke-width="1.5" fill="none" />
-    <path d="M 0 80 Q 180 80, 260 75 T 850 84" stroke="url(#flowAccent)" stroke-width="1.2" fill="none" />
-    <path d="M 0 90 Q 180 90, 260 75 T 850 92" stroke="#27272a" stroke-width="1" fill="none" />
-    <path d="M 0 100 Q 180 100, 260 75 T 850 100" stroke="#27272a" stroke-width="1" fill="none" />
+  <!-- Currents aerodynamic streamline wave curves -->
+  <g opacity="0.75">
+    <path d="M 0 35 Q 280 35, 415 55 T 850 48" stroke="url(#subtleLine)" stroke-width="1" fill="none" />
+    <path d="M 0 43 Q 280 43, 415 55 T 850 52" stroke="url(#flowAccent)" stroke-width="1.2" fill="none" />
+    <path d="M 0 50 Q 280 50, 415 55 T 850 55" stroke="url(#flowAccent)" stroke-width="1.6" fill="none" />
+    <path d="M 0 57 Q 280 57, 415 55 T 850 58" stroke="url(#flowAccent)" stroke-width="1.4" fill="none" />
+    <path d="M 0 65 Q 280 65, 415 55 T 850 63" stroke="url(#subtleLine)" stroke-width="1" fill="none" />
+    <path d="M 0 73 Q 280 73, 415 55 T 850 70" stroke="#27272a" stroke-width="0.8" fill="none" />
   </g>
 
-  <!-- Chrome Sphere Accent (Robert Beatty homage) -->
-  <g transform="translate(230, 75)">
-    <circle cx="0" cy="0" r="18" fill="url(#chromeMinimal)" stroke="#52525b" stroke-width="1" />
-    <circle cx="-5" cy="-5" r="4" fill="#ffffff" opacity="0.75" />
+  <!-- Chrome Sphere Accent (Turbulent slipstream focal point) -->
+  <g transform="translate(425, 55)">
+    <!-- Ambient halo -->
+    <circle cx="0" cy="0" r="18" fill="#a855f7" opacity="0.15" filter="url(#subtleGlow)" />
+    <!-- Sphere -->
+    <circle cx="0" cy="0" r="13" fill="url(#chromeSphere)" stroke="#71717a" stroke-width="0.8" />
+    <!-- Specular highlight -->
+    <circle cx="-4" cy="-4" r="3" fill="#ffffff" opacity="0.85" />
+    <circle cx="2" cy="2" r="1.5" fill="#c084fc" opacity="0.5" />
   </g>
-
-  <!-- Typography: Centered & Sharp -->
-  <text x="520" y="65" text-anchor="middle" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-weight="700" font-size="22" letter-spacing="2.5">ATHA FAKHRI ARKANA</text>
-  
-  <text x="520" y="92" text-anchor="middle" fill="#a1a1aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-weight="500" font-size="12.5" letter-spacing="1">BACKEND ARCHITECTURE  •  LINUX &amp; SYSTEMS ADMINISTRATION</text>
-
-  <text x="520" y="114" text-anchor="middle" fill="#71717a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-style="italic" font-weight="400" font-size="10.5" letter-spacing="1.5">LET IT HAPPEN // SMARTER FLOW, STRONGER SYSTEMS</text>
 </svg>
