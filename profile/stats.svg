@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Atha Fakhri Arkana&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 121, Total PRs: 8, Total Issues: 0, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 118, Total PRs: 8, Total Issues: 0, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ff2a70;
+            fill: #ffffff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e2d9f3;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e2d9f3;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #ff7b00;
+      fill: #ffffff;
       display: none;
     }
 
     .rank-circle-rim {
-      stroke: #e0247c;
+      stroke: #2a2a2a;
       fill: none;
       stroke-width: 6;
-      opacity: 0.2;
+      opacity: 0.5;
     }
     .rank-circle {
-      stroke: #e0247c;
+      stroke: #a855f7;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 218.60048911505103;
+        stroke-dashoffset: 218.8506412595902;
       }
     }
   
@@ -118,7 +118,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="449"
-          fill="#0c0617"
+          fill="#151515"
           stroke-opacity="0"
         />
 
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >121</text>
+      >118</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
